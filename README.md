@@ -11,5 +11,9 @@ How to execute this file:
 6. In the .env file add google api key from maker suite
 7. save the file
 8. Then in cmd write conda activate venv/
+9. Then again in cmd write pip install -r requirements.txt
+10. Download all the given files and add it to your desktop
+11. to run the file add streamlit run app.py
+12. To all the errors generated pls refer chatgpt it gives the solution 
    
 
