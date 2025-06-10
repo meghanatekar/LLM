@@ -11,5 +11,5 @@ How to execute this file:
 6. In the .env file add google api key from maker suite
 7. save the file
 8. Then in cmd write conda activate venv/
-9. 
+   
 
